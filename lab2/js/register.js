@@ -1,0 +1,2 @@
+App.IsAuthorized();
+App.setOnSubmitRegistrateForm();

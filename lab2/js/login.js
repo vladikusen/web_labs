@@ -1,0 +1,3 @@
+App.IsAuthorized();
+App.setOnSubmitLoginForm();
+ 

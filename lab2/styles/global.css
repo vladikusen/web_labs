@@ -1,0 +1,19 @@
+body {
+    background: #a52a2a;
+}
+
+.nav-item:hover {
+    cursor: pointer;
+}
+
+.header {
+    background: #00bfff;
+}
+
+.card {
+    background: #808080;
+}
+
+.card {
+    padding: 0;
+}
